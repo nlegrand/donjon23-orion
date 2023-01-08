@@ -1,0 +1,198 @@
+#+TITLE: Le méga donjon 2023 d’Orion
+#+AUTHOR: Collectif du Discord d’Orion
+
+* Introduction
+
+Ce mégadonjon est une réalisation en cours sur le discord d’Orion
+(https://discord.gg/orionjdr), vous pouvez venir nous rejoindre.
+
+* Le donjons
+
+** 1 : Entrée du donjon (nlegrand)
+
+Sur l’escarpement d’un plateau, dans une vallée boisée, caché par la
+végétation se trouve l’entrée d’une grotte d’environ cinq mètres de
+large.
+
+La grotte est fraîche et humide.
+
+Le sol est fait de terre battue. Sur les côtés de la grotte on été
+repoussé en vrac des ossements de nain. Les os portent des traces de
+découpe.
+
+La grotte se rétrécit en entonnoir sur 9 mètre pour arriver sur une
+entrée de maçonnerie naine. Le linteau de l’ouverture portait des
+inscriptions qui ont été grattées au burin. Dans l’arc de décharge se
+trouvait une pierre qui a été abattue et se trouve brisée au sol,
+poussée sur les côtés de l’entrée.
+
+En reconstituant la pierre les connaisseurs de culture naine peuvent
+reconnaître une représentation de Einbera Cuzziham, déesse de la forge
+ainsi que les armes du royaume disparu de Dehukum.
+
+L’entrée sans porte donne sur un sombre couloir maçonné au sol dallé
+d’où on sent venir une légère odeur d’encens.
+
+** 2 : Poste de contrôle (Yakurou)
+
+Un couloir sombre de trente mètres, qui s'enfonce dans le sol.
+
+Quatre encadrements, dont les portes ne sont plus présentes, donnent
+accès sur 4 pièces distinctes.
+
+Les deux premières ont été fouillées et retournées. On y trouve des
+couchettes de bois, ainsi que des supports d'arme et des râteliers. Un
+observateur averti pourrait trouver un compartiment caché derrière une
+pierre du mur non scellé. À l'intérieur, un livre et deux pièces
+d'or. La dernière page du livre est arrachée. Il recense les entrées
+et sorties de l'endroit.
+
+Dans la troisième et la quatrième pièce, on trouve des restes d'un feu
+de camp. En fouillant un peu, on pourra trouver deux flèches oubliées
+là, totalement utilisable. Leur manufacture est bien plus récente que
+celle du bâtiment.
+
+Une fois ces quatre portes passées, le couloir se pouesuit, toujours
+aussi sombre, avec cette odeur d'encens qui semble vous inviter à
+continuer
+
+** 3 : Le hall (Webfourmi)
+
+Le couloir se termine de façon abrupte par une volée de cinq marches
+de pierre ébrechées et usées en leur centre.
+
+Une grande pièce hexagonale d'une dizaine de mètres de diamètre aux
+murs de pierre lisse et claire avec un haut plafond en coupole. Au
+centre, un cercle de bronze poli d'un mètre de diamètre, légèrement
+surelevé par rapport au sol . Le motif qui le décore est étrangement
+disjoint.
+
+Douze socles de statues vides forment un second cercle autour du centre.
+
+Des ossements nains anciens et d'autres humains sont entassés dans un coin .
+
+Après une fouille minutieuse de la pièce, on peut trouver Une courte
+phalange portant encore une bague ornée d'une rune naine. (La même que
+celle des anneaux d'ouverture).
+
+Des torches consumées sont encore visibles dans leurs supports , deux à chaque mur.
+
+Dès qu'elle est éclairée, la partie centrale du hall reflète la
+lumière et semble s'en imprégner pour briller à son tour.
+
+Un observateur attentif remarquera que les statues disparues ont été
+sauvagement arrachées de leurs socles, comme en témoignent les traces
+de burins qui blessent la pierre.
+
+Il n'y a aucune trace de poussière au centre de la pièce.
+
+Un héros curieux remarquerait que les trois cercles tournent et
+peuvent aligner un motif de flamme ou un autre de rune naine ancienne
+suivant leur agencement. Le premier motif enclenché,trois portes
+cachées s'ouvrent sans bruit dans la paroi de roche, alors qu'au
+second deux autres s'ouvrent alors que les premières se ferment.
+
+Chaque paroi de l'hexagone ( sauf celle du couloir ) a une porte
+dissimulée habilement.
+
+L'odeur d'encens semble plus forte une fois les 2 dernières portes ouvertes.
+
+** 4 : La galerie des ancêtres.
+
+Un des couloirs s'ouvrant après l'enclenchement de la rune est une
+large galerie aux voûtes gothiques, aux murs ponctués de hautes
+colonnes couvertes d'épitaphes et de cartouches à la gloire des
+dynasties de Dehukum. Une odeur répugnante de charogne saisit les
+visiteurs à la gorge.
+
+Les torches révèlent des figures inquiétantes des deux côtés : les
+masques mortuaires de tous les maîtres forges qui se sont succédés
+ici. Leurs réussites les plus glorieuses sont célébrées sur chaque
+pierre, soulignées par les citations élogieuses des monarques du
+royaume et la longue litanie de leur cursus depuis leurs naissances.
+
+La galerie se conclue par une haute porte de bronze verdie par les
+années, encadrée par deux impressionnante statues de guerriers nains -
+détail étonnant, sous les lourdes visières de pierre de véritables
+crânes semblent se dessiner.
+
+A leurs pieds se trouvent trois cadavres de nains en train de pourrir
+dans une répugnante flaque marron.
+
+Un sort de détection de la magie permet de trouver trois sources dans
+la galerie :
+- Un des masques mortuaires et les épitaphes associées sont une
+  illusion : dessous se trouvent un autre texte dédié à un
+  maître-forge dont le nom a été martelé. Son éloge semble révéler
+  qu'il fut le plus brillant de tous, et l'inventeur de l'Ombrefer,
+  alliage magique dont le secret s'est perdu depuis. Un graffiti
+  hâtif, fait au charbon, le maudit lui et sa descendance sur 10
+  générations pour ses crimes.
+- Les deux statues sont magiques. Elles s'animeront et combattront
+quiconque tentera de passer sans le mot de passe, introuvable
+ici. Briser les crânes, bien protégés, permet de les vaincre plus
+facilement.
+
+La fouille des cadavres sera un moment désagréable et collant. Elle
+révèlera qu'ils appartiennent à un clan dévoué à Hashbanik,
+Celui-qui-anime, une divinité maléfique qui donne vie à leurs
+constructs en y enfermant des âmes.
+
+** 5 : Le puits des libations.
+
+La galerie des ancêtres s'ouvre sur une pièce rectangulaire au centre
+de laquelle trône une rotonde taillée dans un marbre vert éclatant. Un
+dôme de quartz au plafond déverse sur sa coupole une cascade de
+lumière qui éclaire en retour toute la pièce d'une douce aura verte.
+
+Le centre de la rotonde est occupée par un puits d'une facture
+apparemment très ancienne, en gros appareil.
+
+Les murs sont couverts de fresques rongées par l'humidité. Elles
+illustrent les différents chapitres de l'histoire d'Einbera Cuzziham,
+de sa naissance étrange à sa création des arts de la forge, en passant
+par la légende du puits élémentaire. Pour s'allier les forces de l'eau
+et se prémunir des ravages du feu, la déesse instaura le rite des
+libations. Un peu d'eau versée sur une margelle, et une offrande en or
+lancée dans le puits en retour.
+
+Trois couloirs partent de la pièce, tous surmontés par le cartouche
+d'une dynastie de maîtres-forgeurs différents. Ils mènent peut être
+vers les tombeaux des artisans.
+
+Quiconque jettera une offrande dans le puits gagnera Résistance aux
+dégâts du feu, quoiqu'il ne se rendra pas compte tout de
+suite. Quiconque ne jette pas d'offrandes avant de continuer dans les
+tombeaux gagnera Sensibilité aux dégâts du feu, avec les mêmes
+circonstances.  Le puits fait une dizaine de mètres de profondeur
+avant de heurter la surface de l'eau. C'est un accès direct au plan
+élémentaire de l'eau : qui s'y aventurerait risquerait très fort de ne
+jamais trouver la surface - et encore moins les précédentes offrandes.
+
+** 6 : Le tombeau hanté
+
+Couloir sud du 5 puits des libations.
+
+Les parois du couloir qui y mène sont sculptés . Des scènes de Forge
+avec toujours le même nain. Malgré la dégradation des murs, un héros
+déchiffrant le language runique nain lira : en hommage au Maitre de
+Forge Thymmund Barbe d'or.
+
+On débouche dans une pièce carrée, sans source de lumière au centre de
+laquelle on voit un gisant de marbre. La pierre du dessus a été brisée
+et le squelette dessous disloqué. Si un heros dérange le moindre
+ossement, le spectre de Thymmund apparait et attaque avec un
+magnifique marteau ouvragé.Vaincu, le fantôme disparait en hurlant
+"Voleur !"
+
+Le marteau du nain a été volé et se trouve quelquepart dans le
+donjon. S'il est ramené dans la tombe, une cache s'ouvrira dans un des
+murs revelant une armure complète avec heaume avec une CA +1 par
+rapport à celle déjà portée(pour un héros nain s'il y en un, sinon
+adapté au heros qui a reposé le marteau).
+
+Le marteau de belle facture confère une résistance aux coups
+contondants.
+
+Si un héros le reprend après avoir pris le trésor, il sera maudit ( -1
+Con / jour ) jusqu'à ce qu'un prêtre lève la malediction.
