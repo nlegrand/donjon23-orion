@@ -196,3 +196,29 @@ contondants.
 
 Si un héros le reprend après avoir pris le trésor, il sera maudit ( -1
 Con / jour ) jusqu'à ce qu'un prêtre lève la malediction.
+
+** 7 : Couloir des dragons (Elwin)
+Couloir Ouest du puits des libations.
+
+Les murs de ce long couloir sont percés de nombreuses alcôves, dans
+lesquelles des squelettes de nains sont allongés. Devant chaque d'eux
+se trouvent une petite coupelle vide et une lampe à huile éteinte -
+ici reposent les nombreux apprentis et parents du maître-forge de
+cette section. Certains possèdent quelques bijoux simples, mais de
+valeur. Des personnages peu scrupuleux peuvent s'emparer ainsi de
+bagues et de colliers pour une valeur d'une centaine de pièces
+d'or. Ils feront toutefois du bruit qui avertira l'autre partie
+présent dans la pièce plus loin - et suscitera sans doute l'hostilité
+ultérieure de nains - vivants ou non.
+
+Au terme du couloir se trouve une arche surmontée de deux statues de
+dragons, gueules ouvertes et noircies. Le sol lui-même, entre eux, est
+noirci. Selon la tradition Einbera Cuzziham avait dominé plusieurs
+dragons rouges grâce au pouvoir des forces de l'eau, et c'est grâce à
+leur feu qu'elle forgea les alliages les plus solides. Ce sont
+manifestement ces puissantes créatures qui sont représentés.
+
+Une détection de la magie signale que les deux statues sont
+magiques. Quiconque les franchit déclenche immédiatement deux souffles
+de feu, qui inflige des dégâts lourds, à moins de disposer d'une
+résistance ou d'une immunité à ces dégâts.
