@@ -97,7 +97,7 @@ dissimulée habilement.
 
 L'odeur d'encens semble plus forte une fois les 2 dernières portes ouvertes.
 
-** 4 : La galerie des ancêtres.
+** 4 : La galerie des ancêtres (Elwin)
 
 Un des couloirs s'ouvrant après l'enclenchement de la rune est une
 large galerie aux voûtes gothiques, aux murs ponctués de hautes
@@ -138,7 +138,7 @@ révèlera qu'ils appartiennent à un clan dévoué à Hashbanik,
 Celui-qui-anime, une divinité maléfique qui donne vie à leurs
 constructs en y enfermant des âmes.
 
-** 5 : Le puits des libations.
+** 5 : Le puits des libations (Elwin)
 
 La galerie des ancêtres s'ouvre sur une pièce rectangulaire au centre
 de laquelle trône une rotonde taillée dans un marbre vert éclatant. Un
@@ -169,7 +169,7 @@ avant de heurter la surface de l'eau. C'est un accès direct au plan
 élémentaire de l'eau : qui s'y aventurerait risquerait très fort de ne
 jamais trouver la surface - et encore moins les précédentes offrandes.
 
-** 6 : Le tombeau hanté
+** 6 : Le tombeau hanté (Webfourmi)
 
 Couloir sud du 5 puits des libations.
 
