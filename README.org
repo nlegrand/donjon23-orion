@@ -1,6 +1,6 @@
-Je mets ici ma progression sur le travail en cours du défi méga donjon
+Je mets ici ma progression sur le plan en cours du défi méga donjon
 2023 qui est fait de manière collaborative sur le Discord d’[[https://discord.gg/orionjdr][Orion]]. Je
-mets ce travail sous [[https://creativecommons.org/licenses/by/4.0/][Creative Commons CC-BY]], aussi n’hésitez pas à le
+mets ce plan sous [[https://creativecommons.org/licenses/by/4.0/][Creative Commons CC-BY]], aussi n’hésitez pas à le
 modifier ou vous en inspirer. Vous trouverez le fichier Vectornator et
 un export SVG.
 
