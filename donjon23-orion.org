@@ -196,7 +196,6 @@ contondants.
 
 Si un héros le reprend après avoir pris le trésor, il sera maudit ( -1
 Con / jour ) jusqu'à ce qu'un prêtre lève la malediction.
-
 ** 7 : Couloir des dragons (Elwin)
 Couloir Ouest du puits des libations.
 
@@ -222,3 +221,60 @@ Une détection de la magie signale que les deux statues sont
 magiques. Quiconque les franchit déclenche immédiatement deux souffles
 de feu, qui inflige des dégâts lourds, à moins de disposer d'une
 résistance ou d'une immunité à ces dégâts.
+
+** 8 : Magasin et stock 
+
+Derrière une porte du Hall (pièce N°3) ouverte par la rune de flamme,
+un petit sas entouré de deux portes, comportant les runes : "Danger :
+Flamme nue interdite". Au sol, dans le sas, une dizaine de
+lanterne. La plupart sont innutilisables, mais 2 d'entre elles peuvent
+servir.
+
+La seconde porte, pour sortir du sas, est coincée, il faudra forcer où
+la détruire pour pouvoir passer. De l'autre côté, de grandes grilles
+métalliques, où sont entreposer :
+
+    - Des pioches, dont 5 sont encore utilisables ;
+    - Des marteaux, dont 2 sont encore utilisables ;
+    - Des casques de mineur, dont 3 sont encore utilisables ;
+    - De nombreuses lanternes ;
+    - 10 cordes de 20 mètres, dont 3 sont innutilisables ;
+    - Des cages, avec un squelette d'oiseau dans chacune ;
+    - Quantité de bois sec ;
+    - De la poix.
+
+(On peut trouver dans cette salle tout autre matériel nécessaire à vos
+salle, ou tout ce qui peux être utiliser dans une mine Je modiefierais
+au fur et à mesure.)
+
+** 9 : Bureaux
+
+L’autre porte ouverte par la rune de flamme mène sur une grande salle
+contenant quatre bureau de pierre taillés directement dans le gré rose
+de la montagne. Chaque bureau a une inscription en rune naine de gravé
+à l’avant :
+- Paie ;
+- RN (les érudits en culture naine reconnaîtront le sigle de Ressources Naines) ;
+- Finances ;
+- Secrétariat du directeur.
+
+Derrière les bureaux on peut admirer de superbes mosaïques de
+représentations de nains stakhanovistes dans les mines. Les mosaïques,
+présentent de nombreuses citations en runes naines :
+- Le travail c’est la santé ;
+- La mine et le mineur sont les mamelles du peuple nain ,
+- Travaillons jusqu’à la mort et au delà !
+
+En fouillant la salle on peut trouver dans les tiroirs de nombreuses
+fiches de paie, des contrats de fournitures pour la mine, un plan de
+la mine (pas à jour), des formulaires de refus de congés, un code du
+travail nain avec de nombreuses pages arrachées.
+
+Au bout de la salle une embrasure qui a à la place d’une porte une
+pierre de grés massive. On ne voit ni poignée ni charnière. Juste le
+texte en rune naine dessus : « Bureau du directeur. Dites quelques
+choses de plaisant pour entrer ». La porte s’escamote dans le mur
+quand on dit quelque chose de plaisant. Laissez la s’ouvrir selon ce
+que vous jugerez pertinent ou amusant dans les propositions des
+joueurs, comme par exemple « je ne viens pas demander d’augmentation »
+ou « à bas les 35 heures ! ».
