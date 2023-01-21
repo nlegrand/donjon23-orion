@@ -222,7 +222,7 @@ magiques. Quiconque les franchit déclenche immédiatement deux souffles
 de feu, qui inflige des dégâts lourds, à moins de disposer d'une
 résistance ou d'une immunité à ces dégâts.
 
-** 8 : Magasin et stock 
+** 8 : Magasin et stock (Yakurou)
 
 Derrière une porte du Hall (pièce N°3) ouverte par la rune de flamme,
 un petit sas entouré de deux portes, comportant les runes : "Danger :
@@ -247,7 +247,7 @@ métalliques, où sont entreposer :
 salle, ou tout ce qui peux être utiliser dans une mine Je modiefierais
 au fur et à mesure.)
 
-** 9 : Bureaux
+** 9 : Bureaux (Nicolas)
 
 L’autre porte ouverte par la rune de flamme mène sur une grande salle
 contenant quatre bureau de pierre taillés directement dans le gré rose
@@ -279,7 +279,7 @@ que vous jugerez pertinent ou amusant dans les propositions des
 joueurs, comme par exemple « je ne viens pas demander d’augmentation »
 ou « à bas les 35 heures ! ».
 
-** 10 : La forge
+** 10 : La forge (Webfourmi)
 
 La dernière porte marquée de la flamme, la porte nord du Hall (3),
 s'ouvre sur une vaste salle soutenue par de nombreux piliers
@@ -318,7 +318,7 @@ la mort. Elles ne sortent pas de la pièce.
 Le cadavre de ces créatures révélera que c'étaient des nains , qui ont
 été maudits et déformés par un sort de magie noire.
 
-** 11 : La bibliothèque
+** 11 : La bibliothèque (KingBabylon)
 
 Couloir Nord du 5 puits des libérations
 
@@ -350,7 +350,7 @@ livre d'énigmes, etc.
 Attention, les livres sont à consulter sur place et ne sont pas
 empruntables !
 
-** 12 : La caldera
+** 12 : La caldera (KingBabylon)
 
 Prolongement ouest du 7
 
@@ -366,7 +366,7 @@ Quand la forteresse était encore en activité, le cratère servait de
 piste d'attérissage. Ses dimensions font qu'il pouvait accueillir
 plusieurs dragons et aéronefs en même temps.
 
-** 13 : Salle des pifeuses ( Porte au nord de la forge (10))
+** 13 : Salle des pifeuses ( Porte au nord de la forge (10)) (Yakurou)
 
 Derrière la porte ouvragée, qui s'ouvre avec un grincement aigu, les
 ténèbres. Des ténèbres que même une flamme ne pourrait éloigner.
@@ -390,7 +390,7 @@ Outre les pifeuses, les PJs pourront trouver dans ces lieux une énorme
 clé (de la taille d'un nain) ainsi que deux portes, lapremière se
 dirigeant vers le nord, la seconde vers l'ouest.
 
-** 14 : La salle au trésor submergée
+** 14 : La salle au trésor submergée (Webfourmi)
 
 Porte nord de la salle des pifeuses
 
@@ -420,7 +420,7 @@ Les seules issues sont le trou dans le sol ou celui au plafond à 3m de
 hauteur. Un PJ qui souhaiterait escalader devra faire un test
 difficile, les parois sont rendues glissantes par l'humidité.
 
-** 15 : Geôles (à l'ouest de la salle des pieuses (13))
+** 15 : Geôles (à l'ouest de la salle des pieuses (13)) (Yakurou)
 
 Derrière cette porte usée, autrefois fermée par de nombreux verrous
 aujourd'hui hors d'usage, se trouve des Geôles.
@@ -447,7 +447,7 @@ Les squelettes ne datent pas tous de la même époque. Et l'un d’eux est
 même habillé avec des vêtements très récents. On peut y trouver celui
 d'une humaine.
 
-** 16 :  L'ascenseur (porte nord ouest du hall(3))
+** 16 :  L'ascenseur (porte nord ouest du hall(3)) (KingBabylon)
 
 La pièce fait environ 3 mètres sur 3. Au centre, une armature en bois
 de 2 mètres sur 2.
