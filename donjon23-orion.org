@@ -456,4 +456,142 @@ Deux chaines traversent de haut en bas cette armature. En tirant celle
 de droite, cette boite se déplace vers le bas pour accéder aux étages
 inférieurs. Celle de gauche permet de monter.
 
-Graver à l'intérieur, sur le bois, 4 nains barré d'une croix.
+Gravés à l'intérieur, sur le bois, 4 nains barrés d'une croix.
+
+** 17 : La salle d'eau (à l'est de 10) (KingBabylon)
+
+c'est une grande salle, deux fois comme la forge. 
+
+À la moitié de la pièce, sur toute la largeur, quelques marches
+permettent de descendre. Selon toute vraisemblance, cet espace devait
+servir de bain. On y voit un tuyau qui coure le long de la zone. Tuyau
+trouvant sa source dans la forge.
+
+Sur les murs, des potences avec des restes de vêtement. 
+
+4 puits sont répartis dans la salle. Un seul est encore en état de
+fonctionnement. C'est un mécanisme à manivelle permettant
+d'enrouler/dérouler la chaîne. Totalement enroulée, on voit que la
+chaîne fait une dizaine de mètres.  Un personnage regardant au fond ne
+verra rien. Mais en y laissant tomber un objet, il mettra un certain
+temps à toucher le fond dans un bruit d'eau.  S'il tente une descente
+en utilisant la chaîne, il faudra faire un test pour éprouver la
+solidité du mécanisme. Lors de sa descente, il aura accès aux étages
+-1 et -2 avant d'atteindre le -3 qui est une grande réserve d'eau.
+
+** 18 : Salle de dissection/ torture (Webfourmi)
+Au nord des geôles (15)
+
+Une salle rectangulaire au sol et aux murs de pierre. Une autre
+ouverture à l'ouest et une au nord fermées par de lourdes portes
+renforcées.
+
+Une table de pierre avec des chaînes aux extremités et des rigoles
+d'écoulement.  Une grille scellée au sol juste a côté.  Un établi avec
+des instruments de torture rouillé.
+
+Une cage accrochée au plafond dans un coin. Au sol de cette cage un
+coeur brisé gravé dans le métal.
+
+Une étagère avec de vieux grimoires d'anatomie poussiéreux. 
+
+Une lettre est cachée à l'intérieur. 
+Qu'un PJ curieux pourrait trouver
+
+« Je te pardonne Griselda. Je sais que tes expériences sont plus
+importantes que tout. Je ne survivrai pas à la prochaine, la maladie
+est trop avancée et malgré tes soins, je vais mourir. Je t'offre mon
+dernier cadeau : étudie mon corps pour trouver un remède.
+
+Adieu, mon âme attendra la tienne dans l'au-delà.
+
+Artelus. »
+
+** Salle 19 : Le bureau du directeur
+*** La Salle
+Une grande salle carrée large comme la précédente avec des plafonds de
+10 m de haut. Les murs sur les côtés sont recouverts de tiroirs. Les
+tiroirs contiennent tous les contrats, contrats de travail, fiche de
+paie et dossiers administratifs de la mine. Au fond de la salle un
+gigantesque bureau devant un énorme fauteuil. Sur le fauteuil un
+squelette de nain richement vêtu à l'air triste. Derrière le fauteuil,
+un gigantesque bas relief représentant Einbera Cuzziham, déesse de la
+forge, portant dans une main un marteau, dans l'autre un soufflet
+portant les armes du royaume disparu de Dehukum. Les yeux et la bouche
+de la déesse sont des chasses vides qui devaient contenir des pierres
+précieuses. Derrière le bureau se trouve plusieurs coffres incrustés
+dans le mur.
+*** Convoitise
+Posé sur le bureau, devant le squelette une double hache de guerre
+impressionnante joliment ouvragée. elle contient plusieurs chasse qui
+semblent pouvoir contenir des gosses pierres précieuses. Convoitise
+est une arme consciente avec un bonus à l'attaque et au dégât. En
+revanche, elle attise le besoin de richesse de son porteur, ce dernier
+doit réussir un jet (volonté/sagesse) pour se désengager d'un combat
+dont l’issue pourrait lui être profitable. Convoitise a beaucoup de
+dédain pour les adversaires pauvres, mais accepte de les tuer par
+respect pour son porteur. Si le porteur fuit un combat profitable, il
+aura désavantage à tous ses jets avec convoitises. Si on ajoute des
+pierres magiques à convoitise, son bonus à l'attaque et au dégâts
+augmente, ainsi que la difficulté à fuir un combat profitable. Des
+petits tuyaux servant aux déplacement des piffeuses débouchent dans la
+pièces.
+*** Regdrum Garbek
+Regdrum Garbek était déjà mort quand la mine était en activité. Il n'a
+pas voulu quitter son poste et personne n'a osé le lui demander. C'est
+un redoutable squelette très dur à duper ou à battre. Et pourtant, il
+se lamente, il s'est fait flouer par Isifor-Mercadel le Fourbe, voleur
+Halfelin qui l'a convaincu de lui prêter les trois pierres pour
+débarrasser la mine de ses gobelins. Désormais, ces dernières sont
+dispersées dans la mine au grand malheur de Regdrum qui ne peut
+quitter son bureau.
+
+Regdrum peut proposer aux joueurs un contrat pour récupérer les trois
+pierres. Il est prêt à donner l'équivalent de mille pièces d'or en
+gemme pour chaque pierre. Il sera prêt à prêter convoitise si cette
+dernière est nécessaire pour abattre un ennemi puissant, avec un
+contrat obligeant à sa restitution évidemment. Les contrats de Regdum
+sont enchantés et une fois signés, ils obligent les
+contractants. C'est est une bonne nouvelle, parce que sans ça, il y
+aurait peu de chance que Regdrum accepte de donner des richesses aux
+gens à qui il les doit, cela ne l'empêche pas en revanche de geindre
+et se lamenter à chaque centime dont il se sépare. On peut rompre le
+contrant en réussissant un jet de volonté très difficile. Le joueur
+qui rompt le contrat aura désavantage à tous ses jets pendant un jour.
+
+Regdrum a su conserver la fidélité de quelques piffeuses qui peuvent
+transporter ses messages dans toute la mine.
+
+Regdrum aime les gens qui travaillent jusqu'à en mourir. Il déteste
+les congés en général. Il n'a jamais entendu parler des congés payés,
+mais pour lui c'est un tel blasphème que si on en parle il entrera
+dans une colère noire où il pourra tuer les gens se trouvant devant
+lui. Il se plaint tout le temps qu'on cherche à le déposséder et qu'on
+s'acharne à vouloir le jeter dans la misère et la pauvreté.
+*** Les trois pierres
+- Dazun, le rubis du feu, donne un bonus de force à son porteur, ou
+  augmente le pouvoir de convoitise ou réactive le volcan et la forge
+  enchâssé dans la statue de la déesse de la forge et donne accès à
+  des salles du donjon inaccessibles sinon ;
+- Zabun, le saphir de l'eau, donne un bonus de constitution à son
+  porteur, ou augmente le pouvoir de convoitise ou réactive les
+  rivières souterraines qui alimentent la forge enchâssé dans la
+  statue de la déesse de la forge et donne accès à des salles du
+  donjon inaccessibles sinon ;
+- Grizzun, l'émeraude électrique, donne un bonus d'agilité à son
+  porteur, ou donne à Convoitise le pouvoir de lancer des éclairs (et
+  augmente la difficulté de fuir un combat profitable) ou réactive le
+  circuit de wagonnet de la mine enchâssé dans la statue de la déesse
+  de la forge, tout wagonnet sera mue par une énergie propre et
+  permettra de se déplacer dans toute la mine, dont dans des zones
+  inaccessibles sinon.
+
+Les trois pierres, ainsi que Convoitise sont enchantés et ne peuvent
+être sorties de la mine.
+
+*** Trésor 
+
+Les trésors cachés derrière Regdrum Garbek sont incommensurable. Mais
+il faut pour les obtenir duper ou vaincre Regdrum, ce qui est
+improbable et il faudra ensuite passer les multiples protections de
+chacun de ces coffres.
